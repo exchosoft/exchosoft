@@ -197,7 +197,7 @@ Architecture that respects local regulations while keeping sensitive business in
 | 🚀 **Major Deployments** | 40+ |
 | 🌍 **Countries Served** | 8 Nations |
 | 🤝 **Client Retention** | 98% |
-| 📈 **Years of Experience** | Refined methodology |
+| 📈 **Years of Experience** | 6 |
 
 </div>
 
@@ -306,6 +306,6 @@ Accra, Greater Accra Region, Ghana
 
 ---
 
-© 2024 Exchosoft Consult. Engineering Tomorrow.
+Copyright © 2026 Exchosoft Consult. Engineering Tomorrow.
 
 </div>
