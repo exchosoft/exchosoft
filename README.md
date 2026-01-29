@@ -1,7 +1,6 @@
 ## Company Name
 Exchosoft Consult
 
-## Tagline 
 Building Digital Infrastructure for Black Enterprise | Strategic Software for Africa, Caribbean & Diaspora
 
 ## About 
