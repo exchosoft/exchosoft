@@ -65,7 +65,7 @@ Computer Software / Information Technology & Services
 Privately Held
 
 ## Founded
-2024 (adjust as needed)
+2024
 
 ## Specialties (add as keywords)
 - Custom Software Development
@@ -87,7 +87,7 @@ Privately Held
 - Enterprise Software
 
 ## Website
-https://exchosoft.com (update when live)
+https://exchosoft.com
 
 ## Locations
 Accra, Greater Accra Region, Ghana (Headquarters)
@@ -97,80 +97,3 @@ Email: mike@exchosoft.com
 Phone: +233 55 334 0120
 
 ---
-
-## ALTERNATE SHORT BIO (for Overview - max 200 characters)
-
-Strategic software solutions for Africa, the Caribbean, and the Diaspora. Custom engineering with offline-first resilience and cloud-native scale.
-
----
-
-## HEADLINE OPTIONS (choose one)
-
-1. "Building Digital Infrastructure for Black Enterprise | Africa • Caribbean • Diaspora"
-
-2. "Strategic Software Engineering for Emerging Markets | Offline-First • Cloud-Native • Secure"
-
-3. "Custom Software Solutions for Africa, Caribbean & Diaspora | Fintech • AgriTech • Logistics"
-
----
-
-## SUGGESTED FIRST POST
-
-🚀 Introducing Exchosoft Consult
-
-We're building digital infrastructure for Black enterprise—strategic software solutions engineered for Africa, the Caribbean, and the Diaspora.
-
-Our mission is simple: bridge the gap between ambitious business goals and technical excellence.
-
-What makes us different?
-
-✅ Offline-First Resilience - Systems that work even with intermittent connectivity
-✅ Custom Engineered - No templates, just solutions built for YOUR challenges
-✅ Cloud-Native Scale - Infrastructure that grows with your vision
-✅ Data Sovereignty - Security that respects local regulations
-
-We've deployed 40+ major projects across 8 nations in:
-• Fintech & Banking
-• AgriTech
-• Logistics
-
-We're not just vendors—we're partners in growth.
-
-Ready to scale your vision? Let's talk.
-
-📧 mike@exchosoft.com
-🌐 Coming Soon
-
-#DigitalTransformation #AfricaTech #CaribbeanTech #CustomSoftware #Fintech #AgriTech #BlackEnterprise
-
----
-
-## PROFILE IMAGE RECOMMENDATIONS
-
-**Logo**: Use the cyan terminal icon from your coming soon page
-**Cover Photo**: Consider a banner showing "Building Digital Infrastructure for Black Enterprise" with your brand colors and subtle digital grid pattern
-
----
-
-## ENGAGEMENT STRATEGY
-
-**Post Ideas:**
-1. Case studies from your 40+ deployments
-2. Technical insights on offline-first architecture
-3. Industry trends in African/Caribbean tech
-4. Client success stories
-5. Behind-the-scenes development process
-6. Team expertise and certifications
-7. Thought leadership on data sovereignty
-
-**Posting Frequency**: 2-3 times per week initially
-
-**Hashtags to Use**:
-#AfricaTech #CaribbeanTech #BlackEnterprise #DigitalTransformation #CustomSoftware #CloudArchitecture #Fintech #AgriTech #LogisticsTech #SoftwareEngineering #TechConsulting #EmergingMarkets
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
